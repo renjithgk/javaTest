@@ -17,5 +17,5 @@
 
 > You can use H2 DB for your project. 
 
-# Done with Assignemnt
+# Done with Assignment ?
 > Create a pull request to master branch
