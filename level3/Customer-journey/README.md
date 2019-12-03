@@ -25,7 +25,7 @@
 ```
 |You can| You cannot|
 |------|------|
-|You can search on web| Do not copy paste web example |
+|You can search on web| Do not copy & paste web example |
 | Understand the concept and answer | Don't get it done by other person |
 
 
