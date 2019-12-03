@@ -31,4 +31,4 @@
 
 
 # Done with Assignment ?
-> Create a pull request to master branch
+> Create a pull request to master branch and inform us
