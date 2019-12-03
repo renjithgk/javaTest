@@ -10,10 +10,10 @@
 
 | Seq | Class Name|  To Do|
 |------ | ------ | -----|
-|1| CustomerRepoService.java | write  /call  JPA methods to query DB|
+|1| CustomerRepoService.java | write/call  JPA methods to query DB|
 |2| CustomerController.java | Implement PUT, DELETE & POST  to update, remove and create customer entity respectively.|
-|3| CustomerRepoServiceTest.java|Create and write unit test cases for CusotmerRespoServiceTest.java class|
-|4| CustomerControllerTest.java|Create and write unit test cases for CusotmeController.java class|
+|3| CustomerRepoServiceTest.java|Create and write unit test cases for CusotmerRepoServiceTest.java class|
+|4| CustomerControllerTest.java|Create and write unit test cases for CusotmerController.java class|
 
 > Assumptions 
 ```
