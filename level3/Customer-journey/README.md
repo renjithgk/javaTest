@@ -1,10 +1,10 @@
-# Java Assesment (Customer Journey)
+# Java Assessment (Customer Journey)
 
-### Assesmement Objective
+### Assessment Objective
 
 1. Ability to work with Java &  MVC
-2. Able to design a sample ReST API using sprig boot
-3. Able to write Unit test and dcoumentation
+2. Able to design a sample ReST API using sprig-boot
+3. Able to write Unit test and documentation
 
 > **Task**
 
@@ -15,7 +15,19 @@
 |3| CustomerRepoServiceTest.java|Create and wirte unit test cases for CusotmerRespoServiceTest.java class|
 |4| CustomerControllerTest.java|Create and write unit test cases for CusotmeCOntroller.java class|
 
-> You can use H2 DB for your project. 
+> Assumptions 
+```
+1. You can use H2 DB for your project
+2. Entity defined is equvalent to your table (no modificaiton required)
+3. Autoload SQL file is permitted to put sample values
+```
+|You can| You cannot|
+|------|------|
+|You can search on web| Do not Copy paste web example |
+| understand the concept and answer | Don't get it done by other person |
+| we understand you have your other commitment, take your time to answer | don't rush to submit the answer|
+
+
 
 # Done with Assignment ?
 > Create a pull request to master branch
