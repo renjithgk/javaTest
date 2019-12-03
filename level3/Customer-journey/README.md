@@ -3,7 +3,7 @@
 ### Assessment Objective
 
 1. Able to to work with Java &  MVC
-2. Able to design a sample ReST API using sprig-boot
+2. Able to design a sample ReST API using spring-boot
 3. Able to write unit test and documentation
 
 > **Task**
