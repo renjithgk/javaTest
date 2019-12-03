@@ -12,8 +12,8 @@
 |------ | ------ | -----|
 |1| CustomerRepoService.java | write/call  JPA methods to query DB|
 |2| CustomerController.java | Implement PUT, DELETE & POST  to update, remove and create customer entity respectively.|
-|3| CustomerRepoServiceTest.java|Create and write unit test cases for CusotmerRepoServiceTest.java class|
-|4| CustomerControllerTest.java|Create and write unit test cases for CusotmerController.java class|
+|3| CustomerRepoServiceTest.java|Create and write unit test cases for CustomerRepoServiceTest.java class|
+|4| CustomerControllerTest.java|Create and write unit test cases for CustomerController.java class|
 
 > Assumptions 
 ```
