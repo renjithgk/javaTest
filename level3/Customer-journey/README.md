@@ -21,7 +21,7 @@
 2. Entity defined is equvalent to your table (no modificaiton required)
 3. Autoload SQL file is permitted to put sample values
 4. You can include any opensource library if you need to
-5. Wrting negative test cases is good to have
+5. Writing negative test cases is good to have
 ```
 |You can| You cannot|
 |------|------|
